@@ -5,7 +5,7 @@ intro: Collaborate across many projects while managing access to projects and da
 redirect_from:
   - /articles/about-improved-organization-permissions/
   - /categories/setting-up-and-managing-organizations-and-teams
-versions:
+https://github.com/github/docs/tree/github:mainversions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
